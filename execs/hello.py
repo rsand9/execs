@@ -4,3 +4,6 @@ while not quit:
     inp = input()
     if int(inp) == 1:
         quit = True
+
+x = [12,3]
+print(x)
